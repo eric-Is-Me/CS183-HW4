@@ -1,0 +1,6 @@
+IP: 10.3.12.2
+Class: A
+Subnet Mask: 255.0.0.0
+CIDR Subnet Mask: 255.255.255.0
+Gateway IP: 10.3.12.1
+Broadcast Address: 10.3.12.255
